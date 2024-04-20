@@ -1,0 +1,13 @@
+.playground{
+
+    position: relative;
+    background-color: green;
+    height: 560px;
+    width: 600px;
+    float: left;
+
+}
+.mosquito{
+    position: relative;
+    height: 80px;
+}
